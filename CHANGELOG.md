@@ -3,3 +3,4 @@
 - docs: update README with project vision and roadmap (2026-01-09 10:25:27+03:00)
 - feat: define Course and Lesson models with JSON serialization (2026-01-09 11:23:47+03:00)
 - feat: implement Firebase Authentication service layer (2026-01-09 12:02:54+03:00)
+- ui: design initial splash screen and light theme (2026-01-09 13:00:12+03:00)
