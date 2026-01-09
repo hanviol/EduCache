@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641647666758",
+    "project_id": "offline-learning-1e88b",
+    "storage_bucket": "offline-learning-1e88b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641647666758:android:db434174536d82ae67cc47",
+        "android_client_info": {
+          "package_name": "com.example.offline_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641647666758-a7jpvp9koc1pmq67fo3a8k9usjtff6kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.offline_learning",
+            "certificate_hash": "df8ba268994bde5bdb4cfe49062d98a81513ed03"
+          }
+        },
+        {
+          "client_id": "641647666758-shmj4phmpasdq8o4t2t71vtg6f2rp0se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMy4HXGQivMMYcNAkqWK_M37PswRtuYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641647666758-shmj4phmpasdq8o4t2t71vtg6f2rp0se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

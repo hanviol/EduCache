@@ -1,0 +1,95 @@
+Analyzing offline_learning...                                   
+
+   info • Don't invoke 'print' in production code • lib/providers/course_provider.dart:45:3 • avoid_print
+   info • Don't invoke 'print' in production code • lib/providers/course_provider.dart:48:3 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:27:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:30:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:42:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:63:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:67:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:69:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:72:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:77:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/repositories/course_repository.dart:137:7 • avoid_print
+   info • Use 'const' with the constructor to improve performance • lib/screens/about_screen.dart:56:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/about_screen.dart:68:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/about_screen.dart:78:11 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/course_detail_screen.dart:58:44 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/course_detail_screen.dart:75:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/course_detail_screen.dart:78:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/course_detail_screen.dart:102:46 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/course_detail_screen.dart:347:63 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/screens/course_detail_screen.dart:435:55 • curly_braces_in_flow_control_structures
+   info • Use 'const' with the constructor to improve performance • lib/screens/edit_profile_screen.dart:202:19 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/edit_profile_screen.dart:218:52 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/screens/lesson_screen.dart:286:15 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/onboarding_screen.dart:41:52 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/onboarding_screen.dart:59:56 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/onboarding_screen.dart:68:56 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/profile_screen.dart:379:29 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/profile_screen.dart:386:48 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:227:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:228:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:231:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:241:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:242:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:245:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:255:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:256:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:259:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:283:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:284:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:287:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:297:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:298:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:301:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:311:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:312:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:315:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:339:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:340:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:343:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:353:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:354:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:357:35 • use_build_context_synchronously
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:367:17 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/screens/settings_screen.dart:368:17 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps • lib/screens/settings_screen.dart:371:35 • use_build_context_synchronously
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/sign_in_screen.dart:81:56 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/sign_in_screen.dart:154:48 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/sign_in_screen.dart:166:48 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/sign_in_screen.dart:280:37 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/sign_up_screen.dart:81:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/sign_up_screen.dart:83:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/sign_up_screen.dart:85:31 • prefer_const_literals_to_create_immutables
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/sign_up_screen.dart:272:37 • use_build_context_synchronously
+   info • Use 'const' with the constructor to improve performance • lib/screens/terms_privacy_screen.dart:22:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/terms_privacy_screen.dart:47:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/terms_privacy_screen.dart:111:11 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/welcome_screen.dart:31:52 • deprecated_member_use
+   info • Don't invoke 'print' in production code • lib/services/download_manager.dart:354:7 • avoid_print
+   info • Use 'const' for final variables initialized to a constant value • lib/services/internet_archive_service.dart:14:5 • prefer_const_declarations
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:21:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:25:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:28:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:37:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:41:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:66:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:69:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:77:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:82:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:89:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:115:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/internet_archive_service.dart:118:7 • avoid_print
+   info • Use interpolation to compose strings and values • lib/services/internet_archive_service.dart:175:32 • prefer_interpolation_to_compose_strings
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/course_card.dart:28:35 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/course_card.dart:66:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/course_card.dart:83:50 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/course_card.dart:105:47 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/course_card.dart:129:47 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/widgets/course_card.dart:139:41 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/widgets/course_card.dart:175:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/widgets/course_card.dart:188:25 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/widgets/onboarding_page.dart:39:32 • deprecated_member_use
+
+91 issues found. (ran in 2.1s)
