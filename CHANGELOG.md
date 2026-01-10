@@ -8,3 +8,4 @@
 - style: configure Google Fonts and custom typography (2026-01-10 10:00:51+03:00)
 - feat: integrate Hive for local database persistence (2026-01-10 11:03:49+03:00)
 - ui: create reusable CustomButton and AppTextField widgets (2026-01-10 12:05:10+03:00)
+- feat: implement MIT OpenCourseWare content provider (2026-01-10 13:22:17+03:00)
