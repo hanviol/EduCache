@@ -12,3 +12,4 @@
 - ui: design course detail screen layout (2026-01-11 09:18:56+03:00)
 - fix: resolve overflow issues on mobile screens (2026-01-11 10:00:15+03:00)
 - feat: add DownloadManager for background tasks (2026-01-11 11:20:59+03:00)
+- feat: implement FileDownloadService using Dio (2026-01-11 12:04:26+03:00)
