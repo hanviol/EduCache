@@ -13,3 +13,4 @@
 - fix: resolve overflow issues on mobile screens (2026-01-11 10:00:15+03:00)
 - feat: add DownloadManager for background tasks (2026-01-11 11:20:59+03:00)
 - feat: implement FileDownloadService using Dio (2026-01-11 12:04:26+03:00)
+- ui: create CourseCard widget with progress indicators (2026-01-11 13:19:55+03:00)
