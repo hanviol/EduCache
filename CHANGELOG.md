@@ -10,3 +10,4 @@
 - ui: create reusable CustomButton and AppTextField widgets (2026-01-10 12:05:10+03:00)
 - feat: implement MIT OpenCourseWare content provider (2026-01-10 13:22:17+03:00)
 - ui: design course detail screen layout (2026-01-11 09:18:56+03:00)
+- fix: resolve overflow issues on mobile screens (2026-01-11 10:00:15+03:00)
