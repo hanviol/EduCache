@@ -15,3 +15,4 @@
 - feat: implement FileDownloadService using Dio (2026-01-11 12:04:26+03:00)
 - ui: create CourseCard widget with progress indicators (2026-01-11 13:19:55+03:00)
 - feat: add search functionality to the course repository (2026-01-12 09:18:18+03:00)
+- feat: implement ProfileService for user data management (2026-01-12 10:27:25+03:00)
