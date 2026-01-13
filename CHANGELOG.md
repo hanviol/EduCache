@@ -20,3 +20,4 @@
 - ui: implementation of LessonCompletionProgressBar (2026-01-12 12:21:45+03:00)
 - feat: integrate YouTube player for video-based lessons (2026-01-12 13:03:39+03:00)
 - feat: add Syncfusion PDF viewer for course documents (2026-01-13 09:04:07+03:00)
+- fix: improve error handling for intermittent network issues (2026-01-13 10:08:03+03:00)
