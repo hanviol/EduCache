@@ -25,3 +25,4 @@
 - ui: add BottomNavBar with custom icons and animations (2026-01-13 12:12:50+03:00)
 - feat: add SettingsService for app-wide preferences (2026-01-13 13:17:06+03:00)
 - feat: implement 'Start Course' and 'Resume' navigation logic (2026-01-14 09:11:44+03:00)
+- fix: resolve memory leaks in video controller initialization (2026-01-14 10:19:50+03:00)
