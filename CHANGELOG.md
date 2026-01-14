@@ -27,3 +27,4 @@
 - feat: implement 'Start Course' and 'Resume' navigation logic (2026-01-14 09:11:44+03:00)
 - fix: resolve memory leaks in video controller initialization (2026-01-14 10:19:50+03:00)
 - feat: integrated OpenLearn API for expanded course catalog (2026-01-14 11:18:29+03:00)
+- ui: refine global styles and color token system (2026-01-14 12:03:49+03:00)
