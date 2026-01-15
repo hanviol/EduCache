@@ -33,3 +33,4 @@
 - fix: resolve notification crash on Android 14+ (2026-01-15 10:01:18+03:00)
 - feat: add Privacy Policy and Terms of Service screens (2026-01-15 11:02:59+03:00)
 - feat: implement offline caching strategy for course metadata (2026-01-15 12:01:40+03:00)
+- refactor: clean up service layer and modularize providers (2026-01-15 13:12:00+03:00)
