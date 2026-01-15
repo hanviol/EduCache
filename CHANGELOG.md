@@ -30,3 +30,4 @@
 - ui: refine global styles and color token system (2026-01-14 12:03:49+03:00)
 - feat: add NotificationService for background download status (2026-01-14 13:18:54+03:00)
 - feat: implement comprehensive lesson tracking and analytics (2026-01-15 09:03:06+03:00)
+- fix: resolve notification crash on Android 14+ (2026-01-15 10:01:18+03:00)
