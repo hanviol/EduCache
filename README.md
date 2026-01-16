@@ -24,7 +24,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/hanviol/EduCache.git
    ```
 2. Install dependencies:
    ```bash
