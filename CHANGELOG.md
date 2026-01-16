@@ -35,3 +35,4 @@
 - feat: implement offline caching strategy for course metadata (2026-01-15 12:01:40+03:00)
 - refactor: clean up service layer and modularize providers (2026-01-15 13:12:00+03:00)
 - docs: enhance README with detailed installation guides (2026-01-16 09:29:41+03:00)
+- feat: add support for dark mode and dynamic theming (2026-01-16 10:08:22+03:00)
