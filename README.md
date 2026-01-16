@@ -15,11 +15,11 @@
 
 | Onboarding | Home |
 | :---: | :---: |
-| ![Onboarding](screenshots/onboarding.png) | ![Home](screenshots/home.png) |
+| ![Onboarding](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/onboarding.png) | ![Home](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/home.png) |
 
 | Course Details | Profile |
 | :---: | :---: |
-| ![Details](screenshots/course_detail.png) | ![Profile](screenshots/profile.png) |
+| ![Details](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/course_detail.png) | ![Profile](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/profile.png) |
 
 ## 🛠️ Tech Stack
 
