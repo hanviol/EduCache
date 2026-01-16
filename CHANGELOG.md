@@ -38,3 +38,4 @@
 - feat: add support for dark mode and dynamic theming (2026-01-16 10:08:22+03:00)
 - ui: design user onboarding carousel with smooth transitions (2026-01-16 11:19:57+03:00)
 - fix: improve image loading and fallback mechanisms (2026-01-16 12:17:00+03:00)
+- feat: add biometric authentication option to sign in (2026-01-16 13:27:17+03:00)
