@@ -40,3 +40,4 @@
 - fix: improve image loading and fallback mechanisms (2026-01-16 12:17:00+03:00)
 - feat: add biometric authentication option to sign in (2026-01-16 13:27:17+03:00)
 - refactor: optimize database queries for faster course loading (2026-01-16 14:10:35+03:00)
+- feat: implement course sharing feature via native share (2026-01-16 15:29:46+03:00)
