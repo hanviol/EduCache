@@ -11,16 +11,6 @@
 - **Smart Search:** Find courses across various subjects including Computer Science, Mathematics, Science, and more.
 - **Premium UI:** A modern, intuitive interface with smooth animations and dark mode support.
 
-## 📸 Screenshots
-
-| Onboarding | Home |
-| :---: | :---: |
-| ![Onboarding](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/onboarding.png) | ![Home](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/home.png) |
-
-| Course Details | Profile |
-| :---: | :---: |
-| ![Details](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/course_detail.png) | ![Profile](https://raw.githubusercontent.com/hanviol/EduCache/5b0a0424ffd9e1ca911dd2c413bd943af4e51572/screenshots/profile.png) |
-
 ## 🛠️ Tech Stack
 
 - **Framework:** Flutter
